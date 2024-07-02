@@ -21,8 +21,11 @@ Objetivos
 Integrantes
 
 Carolina Romero
+
 Cristian Lepra
+
 Amalia Raimundo 
+
 Nefer Barreto Vergel - https://www.linkedin.com/in/neferbv/
 
 Tecnologías Usadas
