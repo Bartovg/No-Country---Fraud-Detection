@@ -1,4 +1,4 @@
-#Detección de Fraudes con Análisis de Datos
+Detección de Fraudes con Análisis de Datos
 
 Descripción
 
@@ -20,12 +20,9 @@ Objetivos
 
 Integrantes
 
-Nombre del integrante 1
-Nombre del integrante 2
-Nombre del integrante 3
-Nombre del integrante 4
-Nombre del integrante 5
-Nombre del integrante 6
+Carolina Romero
+Cristian Lepra
+Amalia Raimundo 
 Nefer Barreto Vergel - https://www.linkedin.com/in/neferbv/
 
 Tecnologías Usadas
@@ -40,7 +37,8 @@ Matplotlib: Para visualización de datos.
 
 Notebook: Para crear y compartir documentos que contienen código, visualizaciones y texto narrativo.
 
-Enlaces (
+Enlaces:
 
 Repositorio en GitHub : https://github.com/No-Country/S15-35-T/blob/main/README.md#s15-35-t
+
 Dataset : https://www.kaggle.com/datasets/ealaxi/paysim1
