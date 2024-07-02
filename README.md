@@ -43,5 +43,4 @@ Notebook: Para crear y compartir documentos que contienen código, visualizacion
 Enlaces (
 
 Repositorio en GitHub : https://github.com/No-Country/S15-35-T/blob/main/README.md#s15-35-t
-Documentación del Proyecto : 
 Dataset : https://www.kaggle.com/datasets/ealaxi/paysim1
